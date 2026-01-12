@@ -3,6 +3,7 @@
   version = "0.8.31";
   sha256 = {
     solc-static-linux = "sha256-qsnNARbprgzT2PZKhkE4GEXcnxLipSZT3jb7YZMj5Vc=";
+    solc-static-linux-arm = "sha256-rPNY2C2n2wM967L02xHhyc/LArDLW13buWNa2Be0G90=";
     solc-macos-amd64 = "sha256-9aJD1rLdj7owfjbF/votjrOudLqBA20cF8lxtdNGrek=";
     solc-macos-aarch64 = "sha256-9aJD1rLdj7owfjbF/votjrOudLqBA20cF8lxtdNGrek=";
   };
